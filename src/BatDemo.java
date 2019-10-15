@@ -7,9 +7,6 @@ public class BatDemo {
 		System.out.println("main1");
 	}
 	
-	@Test
-	public static void main2() {
-		System.out.println("main2");
-	}
+	
 
 }
